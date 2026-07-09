@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This project has been archived and is no longer actively maintained.
+> As announced in [v2.4.0](https://github.com/toshimaru/backlog-pr-link-action/releases/tag/v2.4.0),
+> this was planned as the final release by the current maintainer.
+> If you are interested in taking over maintenance, please contact @toshimaru.
+
 [![Test](https://github.com/toshimaru/backlog-pr-link-action/actions/workflows/test.yml/badge.svg)](https://github.com/toshimaru/backlog-pr-link-action/actions/workflows/test.yml)
 
 # backlog-pr-link-action
